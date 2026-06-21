@@ -7,7 +7,11 @@ Fuzzy**, comparando as decisões das duas abordagens (Abordagem A — Comparaç�
 
 - **Disciplina:** Inteligência Artificial — Lógica Fuzzy e Machine Learning
 - **Professor:** William Malvezzi
-- **Integrantes:** _(preencher com os nomes completos do grupo)_
+- **Integrantes:** _Caroline Holanda Nogueira Lima
+  Davi Maia de Figueiredo
+  Ana Carolina de Andrade Silva
+  Davi Aquiles Maito Vital
+  Debóra Rezende Valeriano_
 - **Arquivo principal:** `trabalho_final_IA_evasao_v3.ipynb`
 
 ---
